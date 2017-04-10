@@ -1,0 +1,29 @@
+{
+  "name": "worker",
+  "version": "1.0.0",
+  "description": "Worker module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jaylim/worker.git"
+  },
+  "keywords": [
+    "worker",
+    "nodejs",
+    "middleware",
+    "job"
+  ],
+  "author": "Jay Lim <jaylim12@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaylim/worker/issues"
+  },
+  "homepage": "https://github.com/jaylim/worker#readme",
+  "dependencies": {
+    "async": "^2.3.0",
+    "lodash": "^4.17.4"
+  }
+}
