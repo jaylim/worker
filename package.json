@@ -1,5 +1,5 @@
 {
-  "name": "worker",
+  "name": "worker-middleware",
   "version": "1.0.0",
   "description": "Worker module",
   "main": "index.js",
