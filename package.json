@@ -1,6 +1,6 @@
 {
   "name": "worker-middleware",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Worker module",
   "main": "index.js",
   "scripts": {
